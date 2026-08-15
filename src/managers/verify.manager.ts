@@ -30,7 +30,7 @@ export async function sendChannelMessage() {
         description:
           "Welcome! Before you can see the rest of the server, you need to confirm you're a real person.\n\n" +
           '**How it works:**\n' +
-          "• Click the **Verify** button below\n" +
+          '• Click the **Verify** button below\n' +
           "• You'll instantly receive the **Member** role\n" +
           '• All public channels will unlock right away\n\n' +
           "⚠️ Not interested? **I don't want to be here** will kick you from the server, so use it only if you mean it.",
